@@ -148,5 +148,143 @@
 * tag:blogger.com,1999:blog-5509711274213970318.post-5709321501641793052
 * tag:blogger.com,1999:blog-5509711274213970318.post-718613013991953685
 
+* Ancestor of The Gods
+* ancestor-of-the-gods
+* https://1.bp.blogspot.com/-3S2pu1wSVuw/X8kBoQQT4gI/AAAAAAAANtY/vsm59LtbZN8o9un85hFkqrx2RWBuslPzACLcBGAsYHQ/s72-c/ancestor-of-the-gods-188904-hfdXWKPb.jpg
+
+ * ./chapter.sh -c Chapter 06 - 11
+* ./chapter.sh -c Chapter 00 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-101904313410525002
+* tag:blogger.com,1999:blog-5509711274213970318.post-8376285569089976466
+
+*Battle Through The Heavens
+* battle-through-the-heavens
+* https://1.bp.blogspot.com/-l0_qMxpLKsk/X8HiC63tppI/AAAAAAAANmw/gjmTprly_44avNx5_7tjx6RkOKlgAPdfACLcBGAsYHQ/s72-c/btth.png
+
+ * ./chapter.sh -c Chapter 301 - 310
+* ./chapter.sh -c Chapter 281 - 300
+* ./chapter.sh -c Chapter 261 - 280
+* ./chapter.sh -c Chapter 241 - 260
+* ./chapter.sh -c Chapter 221 - 240
+* ./chapter.sh -c Chapter 201 - 220
+* ./chapter.sh -c Chapter 181 - 200
+* ./chapter.sh -c Chapter 161 - 180
+* ./chapter.sh -c Chapter 141 - 160
+* ./chapter.sh -c Chapter 121 - 140
+* ./chapter.sh -c Chapter 101 - 120
+* ./chapter.sh -c Chapter 81 - 100
+* ./chapter.sh -c Chapter 61 - 80
+* ./chapter.sh -c Chapter 41 - 60
+* ./chapter.sh -c Chapter 21 - 40
+* ./chapter.sh -c Chapter 01 - 20
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-6421763672664457165
+* tag:blogger.com,1999:blog-5509711274213970318.post-8977799747716920114
+* tag:blogger.com,1999:blog-5509711274213970318.post-413791337359495739
+* tag:blogger.com,1999:blog-5509711274213970318.post-3672912551950266292
+* tag:blogger.com,1999:blog-5509711274213970318.post-6689713665183560027
+* tag:blogger.com,1999:blog-5509711274213970318.post-2263347074651505659
+* tag:blogger.com,1999:blog-5509711274213970318.post-9109058239556570985
+* tag:blogger.com,1999:blog-5509711274213970318.post-6171665228440911021
+* tag:blogger.com,1999:blog-5509711274213970318.post-1637375765052489111
+* tag:blogger.com,1999:blog-5509711274213970318.post-1380639943969951390
+* tag:blogger.com,1999:blog-5509711274213970318.post-4635534318599702664
+* tag:blogger.com,1999:blog-5509711274213970318.post-4298235842795421164
+* tag:blogger.com,1999:blog-5509711274213970318.post-6479257361851259798
+* tag:blogger.com,1999:blog-5509711274213970318.post-5053636402652909902
+* tag:blogger.com,1999:blog-5509711274213970318.post-2100006136795961470
+* tag:blogger.com,1999:blog-5509711274213970318.post-3648225160951971818
+
+* Beautys Close Coach
+*  beautys-close-coach
+*  https://1.bp.blogspot.com/-TtvqeRRMxYo/X8mLcgFVyYI/AAAAAAAANuk/-pt2T2tSpdkPu6AjGIYwL9FclB6xiGlDgCLcBGAsYHQ/s72-c/beautys-close-coach-722580-U7Vho9oG.jpg
+
+ * ./chapter.sh -c Chapter 06 - 13
+* ./chapter.sh -c Chapter 00 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1714495687395064632
+* tag:blogger.com,1999:blog-5509711274213970318.post-7449716996014867326
+
+* Beginners Test For Infinite Power
+* beginners-test-for-infinite-power
+* https://1.bp.blogspot.com/-BxcuigXRvZ0/XywDfHyukOI/AAAAAAAABPc/dJxxnnRjERAzhUH5mGCwD7XtCE8ZmBKSwCLcBGAsYHQ/s72-c/Beginner%2525u2019s-Test-For-Infinite-Power.jpg
+
+ * ./chapter.sh -c Chapter 26
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-4694613742847064368
+* tag:blogger.com,1999:blog-5509711274213970318.post-2587068127743731174
+* tag:blogger.com,1999:blog-5509711274213970318.post-7348569168409584086
+* tag:blogger.com,1999:blog-5509711274213970318.post-1405154853489848613
+* tag:blogger.com,1999:blog-5509711274213970318.post-5776669074473232595
+* tag:blogger.com,1999:blog-5509711274213970318.post-7109547774553943418
+
+* Black Abyss at Dawn
+* black-abyss-at-dawn
+* https://1.bp.blogspot.com/-Anqeqjnz1dY/X8mJ4tpotaI/AAAAAAAANuQ/xerf272Q7j0lm0vPkT17StRSXBtqUu4qgCLcBGAsYHQ/s72-c/black-abyss-at-dawn-921970-93d4LyIp.jpg
+
+ * ./chapter.sh -c Chapter 11 - 13
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3551378410958516508
+* tag:blogger.com,1999:blog-5509711274213970318.post-2469105705675622354
+* tag:blogger.com,1999:blog-5509711274213970318.post-8472789738844374646
+
+* Celestial Jailer
+* celestial-jailer
+* https://1.bp.blogspot.com/-8LzZCQSpgfM/X8hWxL4d15I/AAAAAAAANrI/fngTPkngKgsMP1xX1vkbYWxtJPbTXcxJgCLcBGAsYHQ/s72-c/Celestial-Jailer.jpg
+
+ * ./chapter.sh -c Chapter 31 - 36
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3442022324908609129
+* tag:blogger.com,1999:blog-5509711274213970318.post-2899741817101760406
+* tag:blogger.com,1999:blog-5509711274213970318.post-9002746514491039821
+* tag:blogger.com,1999:blog-5509711274213970318.post-1702914680597118904
+
+* CEO Sudden Proposal
+* ceo-sudden-proposal
+* https://1.bp.blogspot.com/-gkqUxkTNsps/X8hZoWahKCI/AAAAAAAANrw/97VA7fGsNpMItqFm5MjWy9Jd6RyZxgOQgCLcBGAsYHQ/s72-c/CEO-Sudden-Proposal.jpg
+
+ * ./chapter.sh -c Chapter 27 - 36
+* ./chapter.sh -c Chapter 26
+* ./chapter.sh -c Chapter 22 - 25
+* ./chapter.sh -c Chapter 21
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-5131037218359914557
+* tag:blogger.com,1999:blog-5509711274213970318.post-6522848474744628083
+* tag:blogger.com,1999:blog-5509711274213970318.post-1725411084371757809
+* tag:blogger.com,1999:blog-5509711274213970318.post-365574027383668984
+* tag:blogger.com,1999:blog-5509711274213970318.post-6085091687110307181
+* tag:blogger.com,1999:blog-5509711274213970318.post-6827267771748274012
+
+* Chaos Emperor
+* chaos-emperor
+* https://1.bp.blogspot.com/-KnbjH9TlAWs/X24JYNJiM6I/AAAAAAAAB7I/JjIjqhC_L8cJr6APdK2H2q21d67eci4zwCLcBGAsYHQ/s72-c/420-2-compressed.jpg
+
+ * ./chapter.sh -c Chapter 51 - 57
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-8601039764164416173
+* tag:blogger.com,1999:blog-5509711274213970318.post-7254796433329585673
+* tag:blogger.com,1999:blog-5509711274213970318.post-8534558569390924103
+* tag:blogger.com,1999:blog-5509711274213970318.post-6988225597335303619
+* tag:blogger.com,1999:blog-5509711274213970318.post-6182031436687332958
+* tag:blogger.com,1999:blog-5509711274213970318.post-473401605299745548
+
 
 
