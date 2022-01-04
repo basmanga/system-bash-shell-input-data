@@ -110,11 +110,11 @@ echo "---"
 echo "layout: post "
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}" 
-echo "subtitle: Magic Emperor"
+echo "subtitle: Dimensional Mercenary"
 echo "label: chapter"
-echo "image: "
-echo "category: magic-emperor"
-echo "description: baca komik Magic Emperor ${POST_TITLE} bahasa indonesia "
+echo "image: https://1.bp.blogspot.com/-5O2AqShUax0/X9D9tTt74nI/AAAAAAAANxY/aLKM2gJBRfgHkXAbGawXpjA1PzgVfo5XwCLcBGAsYHQ/s72-c/Dimensional-Mercenary.jpg"
+echo "category: dimensional-mercenary"
+echo "description: baca komik Dimensional Mercenary ${POST_TITLE} bahasa indonesia "
 echo "author: Postkomik"
 echo "blogId: "
 echo "---"
@@ -158,3 +158,4 @@ main() {
 
 # Initialize
 main $*
+

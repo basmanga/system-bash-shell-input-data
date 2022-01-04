@@ -114,7 +114,7 @@ echo "layout: komik"
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}" 
 echo "subtitle: ${POST_TITLE}"
-echo "type: "
+echo "type: Manga"
 echo "subtype: "
 echo "category: ${POST_NAME}"
 echo "tag: "
@@ -167,3 +167,4 @@ main() {
 
 # Initialize
 main $*
+
