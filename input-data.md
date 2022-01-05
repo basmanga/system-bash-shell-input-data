@@ -1336,84 +1336,524 @@
 * Judul : Return To Beginning Of The Apocalypse
 * Category: return-to-beginning-of-the-apocalypse
 * url-gambar: https://1.bp.blogspot.com/-Z5S4ATQ6XkA/X8eeByH1F7I/AAAAAAAANqw/oh9a_fbgJsYqg8ROA6Mb1eflsZGRZQL3gCLcBGAsYHQ/s72-c/Return-To-Beginning-Of-The-Apocalypse.jpg
+
+ * ./chapter.sh -c Chapter 61 - 67
+* ./chapter.sh -c Chapter 51 - 60
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3667405807921288742
+* tag:blogger.com,1999:blog-5509711274213970318.post-6931176036209712912
+* tag:blogger.com,1999:blog-5509711274213970318.post-7826805578866676814
+* tag:blogger.com,1999:blog-5509711274213970318.post-5818590540396351458
+* tag:blogger.com,1999:blog-5509711274213970318.post-568335283572252643
+* tag:blogger.com,1999:blog-5509711274213970318.post-6815800932967496309
+* tag:blogger.com,1999:blog-5509711274213970318.post-7231063073892953530
+
+
 * Judul : Revenge Movie Queen
 * Category: revenge-movie-queen
 * url-gambar: https://1.bp.blogspot.com/-GwXTpV_ZNrs/X8haVrPt-NI/AAAAAAAANr4/6MuezzyqBt0Q2rdsPaacgaHUZQ2irIv7ACLcBGAsYHQ/s72-c/revenge-movie-queen-006970-obFUYuni.jpg
+
+ * ./chapter.sh -c Chapter 01 - 08
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-533995550227864299
+
+
 * Judul : Rich Player
 * Category: rich-player
 * url-gambar: https://1.bp.blogspot.com/-XdnleZ5ZO1Y/X8i7Xsy2jaI/AAAAAAAANsc/iAbzq0bf2wED685Lj-s61KUpHLQ80rD5gCLcBGAsYHQ/s72-c/Rich-Player-mangabob.jpg
+
+ * ./chapter.sh -c Chapter 41 - 47
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1953062339457835325
+* tag:blogger.com,1999:blog-5509711274213970318.post-1806790999531137108
+* tag:blogger.com,1999:blog-5509711274213970318.post-2928062267871788248
+* tag:blogger.com,1999:blog-5509711274213970318.post-6990034458560191089
+* tag:blogger.com,1999:blog-5509711274213970318.post-3436213942602883937
+
+
 * Judul : Shen Haos Heavenly Fall System
 * Category: shen-haos-heavenly-fall-system
 * url-gambar: https://1.bp.blogspot.com/-i_c2NyIPuGY/X8i-44v0xDI/AAAAAAAANtM/VXBep8zTjycHJVAikjfQcstNsaJ5g7FiQCLcBGAsYHQ/s72-c/Komik-Shen-Haos-Heavenly-Fall-System.jpg
+
+ * ./chapter.sh -c Chapter 161 - 170
+* ./chapter.sh -c Chapter 151 - 160
+* ./chapter.sh -c Chapter 141 - 150
+* ./chapter.sh -c Chapter 131 - 140
+* ./chapter.sh -c Chapter 121 - 130
+* ./chapter.sh -c Chapter 111 - 120
+* ./chapter.sh -c Chapter 101 - 110
+* ./chapter.sh -c Chapter 91 - 100
+* ./chapter.sh -c Chapter 81 - 90
+* ./chapter.sh -c Chapter 71 - 80
+* ./chapter.sh -c Chapter 61 - 70
+* ./chapter.sh -c Chapter 51 - 60
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 26 - 30
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1450742795623359641
+* tag:blogger.com,1999:blog-5509711274213970318.post-3451787894603278950
+* tag:blogger.com,1999:blog-5509711274213970318.post-925090912137747002
+* tag:blogger.com,1999:blog-5509711274213970318.post-1253816480186665676
+* tag:blogger.com,1999:blog-5509711274213970318.post-2750343014997314466
+* tag:blogger.com,1999:blog-5509711274213970318.post-6039383430644337988
+* tag:blogger.com,1999:blog-5509711274213970318.post-9030644514386609268
+* tag:blogger.com,1999:blog-5509711274213970318.post-5163983210634053839
+* tag:blogger.com,1999:blog-5509711274213970318.post-1035437400216623420
+* tag:blogger.com,1999:blog-5509711274213970318.post-4049578265406242235
+* tag:blogger.com,1999:blog-5509711274213970318.post-7673142560071052046
+* tag:blogger.com,1999:blog-5509711274213970318.post-646426696490492749
+* tag:blogger.com,1999:blog-5509711274213970318.post-6911628736167640293
+* tag:blogger.com,1999:blog-5509711274213970318.post-4552679894418680433
+* tag:blogger.com,1999:blog-5509711274213970318.post-1255438138422203019
+* tag:blogger.com,1999:blog-5509711274213970318.post-554156081289571920
+* tag:blogger.com,1999:blog-5509711274213970318.post-8536207932510224635
+* tag:blogger.com,1999:blog-5509711274213970318.post-6261999154709251397
+
+
+
 * Judul : Star Martial God Technique
 * Category: star-martial-god-technique
 * url-gambar: https://1.bp.blogspot.com/-TOVPPiqUAiY/X8DujIRrBHI/AAAAAAAANmM/txYT9hontUspc8gRG9y_MRaTm6tFYJFYwCLcBGAsYHQ/s72-c/Star-Martial-Art-God-Technique.jpg
+
+ * ./chapter.sh -c Chapter 361 - 370
+* ./chapter.sh -c Chapter 341 - 360
+* ./chapter.sh -c Chapter 321 - 340
+* ./chapter.sh -c Chapter 301 - 320
+* ./chapter.sh -c Chapter 281 - 300
+* ./chapter.sh -c Chapter 261 - 280
+* ./chapter.sh -c Chapter 241 - 260
+* ./chapter.sh -c Chapter 221 - 240
+* ./chapter.sh -c Chapter 201 - 220
+* ./chapter.sh -c Chapter 181 - 200
+* ./chapter.sh -c Chapter 161 - 180
+* ./chapter.sh -c Chapter 141 - 160
+* ./chapter.sh -c Chapter 121 - 140
+* ./chapter.sh -c Chapter 101 - 120
+* ./chapter.sh -c Chapter 61 - 80
+* ./chapter.sh -c Chapter 41 - 60
+* ./chapter.sh -c Chapter 21 - 40
+* ./chapter.sh -c Chapter 01 - 20
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-5775122346065277873
+* tag:blogger.com,1999:blog-5509711274213970318.post-3016784978357477193
+* tag:blogger.com,1999:blog-5509711274213970318.post-7820762991104740348
+* tag:blogger.com,1999:blog-5509711274213970318.post-3535127302749736545
+* tag:blogger.com,1999:blog-5509711274213970318.post-8955974319689032083
+* tag:blogger.com,1999:blog-5509711274213970318.post-7739834809817168160
+* tag:blogger.com,1999:blog-5509711274213970318.post-6261743636798422437
+* tag:blogger.com,1999:blog-5509711274213970318.post-9064934710275440632
+* tag:blogger.com,1999:blog-5509711274213970318.post-6567302296740608188
+* tag:blogger.com,1999:blog-5509711274213970318.post-4301264792891626123
+* tag:blogger.com,1999:blog-5509711274213970318.post-6718731598263002687
+* tag:blogger.com,1999:blog-5509711274213970318.post-1947783339542572759
+* tag:blogger.com,1999:blog-5509711274213970318.post-1190732717264875468
+* tag:blogger.com,1999:blog-5509711274213970318.post-195811470834208311
+* tag:blogger.com,1999:blog-5509711274213970318.post-1979070609808455284
+* tag:blogger.com,1999:blog-5509711274213970318.post-5296179085995925119
+* tag:blogger.com,1999:blog-5509711274213970318.post-5708575394114208645
+* tag:blogger.com,1999:blog-5509711274213970318.post-1428612390755542614
+
+
 * Judul : Strongest Abandoned Son
 * Category: strongest-abandoned-son
 * url-gambar: https://1.bp.blogspot.com/-gXu67OxCh3o/X2sJYMcgN6I/AAAAAAAAB4g/Xx7zQiH5xAoq2NUqEp3wkM_1GZcdW7BWwCLcBGAsYHQ/s72-c/35448.jpg
+
+ * ./chapter.sh -c Chapter 151 - 157
+* ./chapter.sh -c Chapter 141 - 150
+* ./chapter.sh -c Chapter 131 - 140
+* ./chapter.sh -c Chapter 121 - 130
+* ./chapter.sh -c Chapter 111 - 120
+* ./chapter.sh -c Chapter 101 - 110
+* ./chapter.sh -c Chapter 91 - 100
+* ./chapter.sh -c Chapter 81 - 90
+* ./chapter.sh -c Chapter 71 - 80
+* ./chapter.sh -c Chapter 61 - 70
+* ./chapter.sh -c Chapter 51 - 60
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-6960614598822236697
+* tag:blogger.com,1999:blog-5509711274213970318.post-421783155218764893
+* tag:blogger.com,1999:blog-5509711274213970318.post-5881367591152906373
+* tag:blogger.com,1999:blog-5509711274213970318.post-8073161434077875135
+* tag:blogger.com,1999:blog-5509711274213970318.post-4729436159961933999
+* tag:blogger.com,1999:blog-5509711274213970318.post-5047509523194430942
+* tag:blogger.com,1999:blog-5509711274213970318.post-8319406881571422097
+* tag:blogger.com,1999:blog-5509711274213970318.post-7952251871390077876
+* tag:blogger.com,1999:blog-5509711274213970318.post-4060633155954953241
+* tag:blogger.com,1999:blog-5509711274213970318.post-8635048095373958461
+* tag:blogger.com,1999:blog-5509711274213970318.post-7363467355589860331
+* tag:blogger.com,1999:blog-5509711274213970318.post-8000078490238505388
+* tag:blogger.com,1999:blog-5509711274213970318.post-7366595994569561756
+* tag:blogger.com,1999:blog-5509711274213970318.post-5184872107816310950
+* tag:blogger.com,1999:blog-5509711274213970318.post-7585631561170803012
+* tag:blogger.com,1999:blog-5509711274213970318.post-7063747830105176314
+
+
 * Judul : Super Keyboard Man
 * Category: super-keyboard-man
 * url-gambar: https://1.bp.blogspot.com/-SMLtE6lGNUM/X8hV-hALKpI/AAAAAAAANrA/i--Vjm-4BBo0P3GaPFIL6mLwgGSDcTmowCLcBGAsYHQ/s72-c/Super-Keyboard-Man.jpg
+
+ * ./chapter.sh -c Chapter 31 - 35
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3434835104876101304
+* tag:blogger.com,1999:blog-5509711274213970318.post-3142751397858101030
+* tag:blogger.com,1999:blog-5509711274213970318.post-6440403377410111598
+* tag:blogger.com,1999:blog-5509711274213970318.post-4362654367644408710
+
+
 * Judul : Super School Doctor
 * Category: super-school-doctor
 * url-gambar: https://1.bp.blogspot.com/-sZQ_fzeloQI/X2onqoNJ1iI/AAAAAAAABwE/MNdKPmYjs2Uvu3udL0J9H1UWkAGzdaHhQCLcBGAsYHQ/s72-c/46895-compressed.jpg
+
+ * ./chapter.sh -c Chapter 61 - 66
+* ./chapter.sh -c Chapter 56 - 60
+* ./chapter.sh -c Chapter 51 - 55
+* ./chapter.sh -c Chapter 46 - 50
+* ./chapter.sh -c Chapter 41 - 45
+* ./chapter.sh -c Chapter 36 - 40
+* ./chapter.sh -c Chapter 31 - 35
+* ./chapter.sh -c Chapter 26 - 30
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-7006502897347160496
+* tag:blogger.com,1999:blog-5509711274213970318.post-3838795109036861781
+* tag:blogger.com,1999:blog-5509711274213970318.post-1459866127869426105
+* tag:blogger.com,1999:blog-5509711274213970318.post-4338030215418198291
+* tag:blogger.com,1999:blog-5509711274213970318.post-223346450891019527
+* tag:blogger.com,1999:blog-5509711274213970318.post-1229545569239314518
+* tag:blogger.com,1999:blog-5509711274213970318.post-998586339114907051
+* tag:blogger.com,1999:blog-5509711274213970318.post-8771723118972815938
+* tag:blogger.com,1999:blog-5509711274213970318.post-2590580590918465346
+* tag:blogger.com,1999:blog-5509711274213970318.post-8918565551275278078
+* tag:blogger.com,1999:blog-5509711274213970318.post-6882561993713646457
+* tag:blogger.com,1999:blog-5509711274213970318.post-4878231712967828959
+* tag:blogger.com,1999:blog-5509711274213970318.post-4761937334557807315
+
+
 * Judul : Supreme Demon Return
 * Category: supreme-demon-return
 * url-gambar: https://1.bp.blogspot.com/-sHI0T0bFCkw/X8hY8W0zeHI/AAAAAAAANrk/lJTzJbltRx8DDmxiMFgOxZQJZWEFz9ZXgCLcBGAsYHQ/s72-c/supreme-demon-return-253704-IpfPj44E.jpg
+
+ * ./chapter.sh -c Chapter 00 - 12
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3921101181258852118
+
+
 * Judul : Take The Girl To Repair Fairy In The City
 * Category: take-the-girl-to-repair-fairy-in-the-city
 * url-gambar: https://1.bp.blogspot.com/-M6YjGTuh5Ss/X8kF1wu2mbI/AAAAAAAANuE/wKtshmHmXBggWNjfWsJLRLok8Cjko_hDwCLcBGAsYHQ/s72-c/take-the-girl-to-repair-fairy-in-the-city-658766-XMVreKWP.jpg
+
+ * ./chapter.sh -c Chapter 16 - 19
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-4945617683449753258
+* tag:blogger.com,1999:blog-5509711274213970318.post-8633483911098447341
+* tag:blogger.com,1999:blog-5509711274213970318.post-229261019044362758
+* tag:blogger.com,1999:blog-5509711274213970318.post-885839044905536949
+
+
 * Judul : The Best Warrior In The City
 * Category: the-best-warrior-in-the-city
 * url-gambar: https://1.bp.blogspot.com/-S67PLN39dhc/X8i6qtSsgHI/AAAAAAAANsU/pcg9JVQKgl4AQ8Bi9PGURSuxVmEnR_VAACLcBGAsYHQ/s72-c/The-Best-Warrior-In-The-City.jpg
+
+ * ./chapter.sh -c Chapter 141 - 153
+* ./chapter.sh -c Chapter 121 - 140
+* ./chapter.sh -c Chapter 101 - 120
+* ./chapter.sh -c Chapter 81 - 100
+* ./chapter.sh -c Chapter 61 - 80
+* ./chapter.sh -c Chapter 41 - 60
+* ./chapter.sh -c Chapter 21 - 40
+* ./chapter.sh -c Chapter 00 - 20
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1537349087955990454
+* tag:blogger.com,1999:blog-5509711274213970318.post-1425307159111029035
+* tag:blogger.com,1999:blog-5509711274213970318.post-1938308938900088437
+* tag:blogger.com,1999:blog-5509711274213970318.post-621500180774985997
+* tag:blogger.com,1999:blog-5509711274213970318.post-8059502859358059744
+* tag:blogger.com,1999:blog-5509711274213970318.post-295680039326223506
+* tag:blogger.com,1999:blog-5509711274213970318.post-4753311666621559576
+* tag:blogger.com,1999:blog-5509711274213970318.post-2944653254916245736
+
+
 * Judul : The Demon King Who Lost His Job
 * Category: the-demon-king-who-lost-his-job
 * url-gambar: https://1.bp.blogspot.com/-xghRmoqNEbs/X2umpEBmywI/AAAAAAAAB5I/8bV6rghWf3kt9M-beVeWKbrHa0Y1jOcngCLcBGAsYHQ/s72-c/The-Demon-King-Who-Lost-His-Job.jpg
+
+ * ./chapter.sh -c Chapter 106
+* ./chapter.sh -c Chapter 101 - 105
+* ./chapter.sh -c Chapter 91 - 100
+* ./chapter.sh -c Chapter 81 - 90
+* ./chapter.sh -c Chapter 76 - 80
+* ./chapter.sh -c Chapter 71 - 75
+* ./chapter.sh -c Chapter 66 - 70
+* ./chapter.sh -c Chapter 61 - 65
+* ./chapter.sh -c Chapter 56 - 60
+* ./chapter.sh -c Chapter 51 - 55
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-2033371734048151391
+* tag:blogger.com,1999:blog-5509711274213970318.post-3748748376530705877
+* tag:blogger.com,1999:blog-5509711274213970318.post-4114264659294096588
+* tag:blogger.com,1999:blog-5509711274213970318.post-7928545282798546951
+* tag:blogger.com,1999:blog-5509711274213970318.post-4781748673862036613
+* tag:blogger.com,1999:blog-5509711274213970318.post-255594010730253814
+* tag:blogger.com,1999:blog-5509711274213970318.post-8048345865775483225
+* tag:blogger.com,1999:blog-5509711274213970318.post-8718795849239916285
+* tag:blogger.com,1999:blog-5509711274213970318.post-4028568188460694501
+* tag:blogger.com,1999:blog-5509711274213970318.post-4731864867485089961
+* tag:blogger.com,1999:blog-5509711274213970318.post-1404142623565401358
+* tag:blogger.com,1999:blog-5509711274213970318.post-9103981891255127806
+* tag:blogger.com,1999:blog-5509711274213970318.post-2869808425370588192
+* tag:blogger.com,1999:blog-5509711274213970318.post-5441113179712175564
+* tag:blogger.com,1999:blog-5509711274213970318.post-1429011742678747506
+
+
 * Judul : The Developer System
 * Category: the-developer-system
 * url-gambar: https://1.bp.blogspot.com/-zxcZdsxlvQk/X8i9a4NsSvI/AAAAAAAANs8/22Hty_syj3Usnc3ogZ_yIitkB4sVsiurQCLcBGAsYHQ/s72-c/The-Developer-System.jpg
+
+ * ./chapter.sh -c Chapter 101 - 118
+* ./chapter.sh -c Chapter 81 - 100
+* ./chapter.sh -c Chapter 61 - 80
+* ./chapter.sh -c Chapter 41 - 60
+* ./chapter.sh -c Chapter 21 - 40
+* ./chapter.sh -c Chapter 01 - 20
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1013940193083452855
+* tag:blogger.com,1999:blog-5509711274213970318.post-2190539279707230186
+* tag:blogger.com,1999:blog-5509711274213970318.post-4623065689954271433
+* tag:blogger.com,1999:blog-5509711274213970318.post-499650189537286526
+* tag:blogger.com,1999:blog-5509711274213970318.post-2808370655813675465
+* tag:blogger.com,1999:blog-5509711274213970318.post-9192193823097516617
+
+
 * Judul : The First Son-In-Law Vanguard of All Time
 * Category: the-first-son-in-law-vanguard-of-all-time
 * url-gambar: https://1.bp.blogspot.com/-Y0rmIOW6PmM/X8kFCNFKa0I/AAAAAAAANt4/2BKxxx_sSzU2Q8ODgVDdoX2ktEIiq3BuQCLcBGAsYHQ/s72-c/The-First-Son-In-Law-Vanguard-of-All-Time.jpg
+
+ * ./chapter.sh -c Chapter 31 - 35
+* ./chapter.sh -c Chapter 26 - 30
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 00 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3077189546061812102
+* tag:blogger.com,1999:blog-5509711274213970318.post-5657558864195266309
+* tag:blogger.com,1999:blog-5509711274213970318.post-4107109687009923448
+* tag:blogger.com,1999:blog-5509711274213970318.post-6688529053192098580
+* tag:blogger.com,1999:blog-5509711274213970318.post-7562748318132572033
+* tag:blogger.com,1999:blog-5509711274213970318.post-6474920035687132608
+* tag:blogger.com,1999:blog-5509711274213970318.post-5869281493401379525
+
+
 * Judul : The Genius System
 * Category: the-genius-system
 * url-gambar: https://1.bp.blogspot.com/-sZU0Ia5Dhk4/X8i-KvzIA9I/AAAAAAAANtE/pL8pzON-lCojNEeYmd7QR7O6_6dBNBQxACLcBGAsYHQ/s72-c/The-Genius-System.jpg
+
+ * ./chapter.sh -c Chapter 61 - 69
+* ./chapter.sh -c Chapter 51 - 60
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-1721363374317074742
+* tag:blogger.com,1999:blog-5509711274213970318.post-7927351334015861371
+* tag:blogger.com,1999:blog-5509711274213970318.post-6844735646339754792
+* tag:blogger.com,1999:blog-5509711274213970318.post-5356827481281887430
+* tag:blogger.com,1999:blog-5509711274213970318.post-300313692023714741
+* tag:blogger.com,1999:blog-5509711274213970318.post-4409923907670913807
+* tag:blogger.com,1999:blog-5509711274213970318.post-5290879136241799606
+
+
 * Judul : The Interceptor Cross System
 * Category: the-interceptor-cross-system
 * url-gambar: https://1.bp.blogspot.com/-hy2w7YB-cdo/X8i7_8FnMZI/AAAAAAAANso/wnKuDc5o2F4jkSsg8es3HgVt85rQ6ZFfACLcBGAsYHQ/s72-c/intercept-system.jpg
+
+ * ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-9130189909409547544
+* tag:blogger.com,1999:blog-5509711274213970318.post-6877048588056224225
+* tag:blogger.com,1999:blog-5509711274213970318.post-8505709053665304813
+* tag:blogger.com,1999:blog-5509711274213970318.post-2980610215402240433
+
+
 * Judul : The Rest of My Life on the Desert Island
 * Category: the-rest-of-my-life-on-the-desert-island
 * url-gambar: https://1.bp.blogspot.com/-gL7RcSiQGwA/X8kDA6TbtQI/AAAAAAAANtg/R_gU_LaDmTQiMqLfBOwaKdN9LHNIq9PJACLcBGAsYHQ/s72-c/the-rest-of-my-life-on-the-desert-island-695503-5Qv8PwL4.jpg
+
+ * ./chapter.sh -c Chapter 26 - 27
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-8720667577869249017
+* tag:blogger.com,1999:blog-5509711274213970318.post-4163220058822744315
+* tag:blogger.com,1999:blog-5509711274213970318.post-3896043679780863579
+* tag:blogger.com,1999:blog-5509711274213970318.post-5517939160168392491
+* tag:blogger.com,1999:blog-5509711274213970318.post-7859290545179053455
+* tag:blogger.com,1999:blog-5509711274213970318.post-2136126696014324408
+
+
 * Judul : The Strongest Peach Blossom
 * Category: the-strongest-peach-blossom
 * url-gambar: https://1.bp.blogspot.com/-Oo5Pgz50efo/X8ecTzy7rGI/AAAAAAAANqk/zaPhun_Z6rc6PcZWg0oeLGzP2DJRozqnQCLcBGAsYHQ/s72-c/The-Strongest-Peach-Blossom.png
+
+ * ./chapter.sh -c Chapter 51 - 55
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-8858150574373215470
+* tag:blogger.com,1999:blog-5509711274213970318.post-7696046261621209862
+* tag:blogger.com,1999:blog-5509711274213970318.post-4155842273859344688
+* tag:blogger.com,1999:blog-5509711274213970318.post-2929082880027199571
+* tag:blogger.com,1999:blog-5509711274213970318.post-921789530016288758
+* tag:blogger.com,1999:blog-5509711274213970318.post-845366465868669308
+
+
 * Judul : The Villain
 * Category: the-villain
 * url-gambar: https://1.bp.blogspot.com/-xDDz2v5Y9Ws/X8mxBQky5ZI/AAAAAAAANvE/XXkZahe6g4k71jh4rcCGBsbz8NYmfvT2QCLcBGAsYHQ/s72-c/the-villain-421151-nWGy4DaZ.jpg
+
+ * ./chapter.sh -c Chapter 71 - 80
+* ./chapter.sh -c Chapter 61 - 70
+* ./chapter.sh -c Chapter 51 - 60
+* ./chapter.sh -c Chapter 41 - 50
+* ./chapter.sh -c Chapter 31 - 40
+* ./chapter.sh -c Chapter 21 - 30
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-8836682854399871894
+* tag:blogger.com,1999:blog-5509711274213970318.post-8454381654295017700
+* tag:blogger.com,1999:blog-5509711274213970318.post-7455556583790050808
+* tag:blogger.com,1999:blog-5509711274213970318.post-636820220079867890
+* tag:blogger.com,1999:blog-5509711274213970318.post-2529028921031066458
+* tag:blogger.com,1999:blog-5509711274213970318.post-6949689241716177473
+* tag:blogger.com,1999:blog-5509711274213970318.post-3165839117149380879
+* tag:blogger.com,1999:blog-5509711274213970318.post-7542881114440004587
+
+
 * Judul : Vanguard
 * Category: vanguard
 * url-gambar: https://1.bp.blogspot.com/-x63z7A2Ha9I/X8hXak4lnxI/AAAAAAAANrQ/J1hulO7lPEsZptCX_QA3y_Zbc56VNBfYQCLcBGAsYHQ/s72-c/Vanguard.jpg
+
+ * ./chapter.sh -c Chapter 21 - 23
+* ./chapter.sh -c Chapter 11 - 20
+* ./chapter.sh -c Chapter 01 - 10
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-3007723473882805015
+* tag:blogger.com,1999:blog-5509711274213970318.post-3260098781971644270
+* tag:blogger.com,1999:blog-5509711274213970318.post-7594803096434957912
+
+
 * Judul : Vengeance of the Heavenly Demon
 * Category: vengeance-of-the-heavenly-demon
 * url-gambar: https://1.bp.blogspot.com/-AeVcMfvtzxs/X8kDxHFA6xI/AAAAAAAANto/3ftOYec7s949A848HTIIAfVJHgeJhcieQCLcBGAsYHQ/s72-c/38632-608630-zcCtPOb9.png
+
+ * ./chapter.sh -c Chapter 31 - 33
+* ./chapter.sh -c Chapter 26 - 30
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 00 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-8413915266129998065
+* tag:blogger.com,1999:blog-5509711274213970318.post-6926455304266598049
+* tag:blogger.com,1999:blog-5509711274213970318.post-9173774361822300531
+* tag:blogger.com,1999:blog-5509711274213970318.post-7036717991360301315
+* tag:blogger.com,1999:blog-5509711274213970318.post-79978649359923904
+* tag:blogger.com,1999:blog-5509711274213970318.post-2457424474687177954
+* tag:blogger.com,1999:blog-5509711274213970318.post-3421313580035142820
+
+
 * Judul : Xian Zhou
 * Category: xian-zhou
 * url-gambar: https://1.bp.blogspot.com/-uBl7OSHMWzw/X8dR1007z2I/AAAAAAAANqM/jWH_7h6SnZopKoUfvWBUqnJ9cnAJMGXmwCLcBGAsYHQ/s72-c/Xian-Zhou.jpg
+
+ * ./chapter.sh -c Chapter 01 - 16
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-7138827596613438101
+
+
 * Judul : Autophagy Regulation
 * Category: autophagy-regulation
 * url-gambar: https://1.bp.blogspot.com/-FQDHozuFdHg/XyuMOiiO0LI/AAAAAAAAA0M/iHYCp2nRZggXlQ874Ui4E4_Gmb7zstphQCLcBGAsYHQ/s72-c/Autophagy-Regulati.jpg
-* Judul : City of Heaven TimeStamp
-* Category: city-of-heaven-timestamp
-* url-gambar: https://1.bp.blogspot.com/-VtR3D4C3un8/X2OUhgWRNeI/AAAAAAAABgU/YqUYBwfKbaESeyW6aVFWEjlZX8EbAzo0QCLcBGAsYHQ/s72-c/timedstamp2fds.webp
-* Judul : Medical Martial Arts
-* Category: medical-martial-arts
-* url-gambar: https://1.bp.blogspot.com/-IvLCdmORJaY/X_LIE0iji7I/AAAAAAAAOMs/my-ksfNuVoMy9gdwIt18iT8_Bjpc32ldwCLcBGAsYHQ/s72-c/cover-Medical-Martial-Arts.jpg
-* Judul : Strongest Divine Doctor Mixed City
-* Category: strongest-divine-doctor-mixed-city
-* url-gambar: https://1.bp.blogspot.com/-P7FxYJmBOAc/X-7mwDXXYZI/AAAAAAAAN_I/ct8D8fYgZxcFD7_9xKdALKCifRhsmzDNwCLcBGAsYHQ/s72-c/Strongest-Divine-Doctor-Mixed-City.jpg
-* Judul : The Strongest in History
-* Category: the-strongest-in-history
-* url-gambar: https://1.bp.blogspot.com/-Kf1W2csJF9c/X-7n6eclshI/AAAAAAAAN_U/-b_QMfroJUoFsm4RmiHD4EMJ6x9F3bbIQCLcBGAsYHQ/s72-c/screenshot-2020-11-23-214134-410803-ydzt9SvX.png
+
+ * ./chapter.sh -c Chapter 66 - 67
+* ./chapter.sh -c Chapter 61 - 65
+* ./chapter.sh -c Chapter 56 - 60
+* ./chapter.sh -c Chapter 51 - 55
+* ./chapter.sh -c Chapter 46 - 50
+* ./chapter.sh -c Chapter 41 - 45
+* ./chapter.sh -c Chapter 36 - 40
+* ./chapter.sh -c Chapter 31 - 35
+* ./chapter.sh -c Chapter 26 - 30
+* ./chapter.sh -c Chapter 21 - 25
+* ./chapter.sh -c Chapter 16 - 20
+* ./chapter.sh -c Chapter 11 - 15
+* ./chapter.sh -c Chapter 06 - 10
+* ./chapter.sh -c Chapter 01 - 05
+
+* tag:blogger.com,1999:blog-5509711274213970318.post-5191717157038979826
+* tag:blogger.com,1999:blog-5509711274213970318.post-1127962959956204634
+* tag:blogger.com,1999:blog-5509711274213970318.post-6383583245151850647
+* tag:blogger.com,1999:blog-5509711274213970318.post-2728828903537100838
+* tag:blogger.com,1999:blog-5509711274213970318.post-4145331506307324275
+* tag:blogger.com,1999:blog-5509711274213970318.post-6864071340769033107
+* tag:blogger.com,1999:blog-5509711274213970318.post-6672544419269427206
+* tag:blogger.com,1999:blog-5509711274213970318.post-4813480114022804817
+* tag:blogger.com,1999:blog-5509711274213970318.post-6678817172152874145
+* tag:blogger.com,1999:blog-5509711274213970318.post-7701103929494135267
+* tag:blogger.com,1999:blog-5509711274213970318.post-2035192274048752792
+* tag:blogger.com,1999:blog-5509711274213970318.post-7083203565879575982
+* tag:blogger.com,1999:blog-5509711274213970318.post-1310584991090644929
+* tag:blogger.com,1999:blog-5509711274213970318.post-2485986332003336611
+
+
+
 
 #List Manhwa
 * Judul : Alpha
